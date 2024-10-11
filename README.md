@@ -12,4 +12,4 @@ Simple projects to work on linux system programming to develop simple applicatio
 ## Priority-Based Task Scheduler:
 
    Implement a task scheduler that assigns priorities to tasks (threads) and uses data structures like heaps or priority queues to manage task execution.
-   Threads representing tasks will be scheduled based on their priorities, ensuring proper synchronization between threads.
+   Threads representing tasks will be scheduled based on their priorities, ensuring proper synchronization between threads.  this could become complex      but lets see.
